@@ -1,0 +1,615 @@
+Married,Education,Credit_History,Property_Area,Loan_Status
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Semiurban,N
+Yes,'Not Graduate','\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+No,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(-inf-0.5]\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(-inf-0.5]\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+No,Graduate,'\'(-inf-0.5]\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+No,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(-inf-0.5]\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+No,'Not Graduate','\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(-inf-0.5]\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,N
+Yes,'Not Graduate','\'(-inf-0.5]\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(-inf-0.5]\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+No,'Not Graduate','\'(0.5-inf)\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Semiurban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(-inf-0.5]\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,N
+No,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(-inf-0.5]\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,N
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Semiurban,Y
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,N
+No,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,N
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Urban,N
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Urban,N
+Yes,Graduate,'\'(0.5-inf)\'',Semiurban,Y
+Yes,'Not Graduate','\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+No,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Rural,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+Yes,Graduate,'\'(0.5-inf)\'',Urban,Y
+No,Graduate,'\'(-inf-0.5]\'',Semiurban,N
