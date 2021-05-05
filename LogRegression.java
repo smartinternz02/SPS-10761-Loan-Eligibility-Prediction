@@ -42,7 +42,6 @@ public class LogRegression {
 		
 		Evaluation eval = new Evaluation(data);
 		eval.evaluateModel(classifier, data);
-		/** Print the algorithm summary */
 		System.out.println("** Logistic Regression Evaluation with Datasets **");
 		System.out.println(eval.toSummaryString());
 		
